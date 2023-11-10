@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+/Users/matsuirei/Documents/計算機科学実験及演習4/.metadata/.plugins/org.eclipse.jdt.core
-409909306.index
-966898532.index
-1865797976.index
